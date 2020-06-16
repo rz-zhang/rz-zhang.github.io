@@ -6,3 +6,12 @@ Full Version:
   year={2020},
   publisher={IEEE}
 }
+
+Short Version:
+@article{xia2020understanding,
+  title={Understanding urban dynamics via state-sharing hidden markov model},
+  author={Xia, Tong and Li, Yong and Yu, Yue and Xu, Fengli and Liao, Qingmin and Jin, Depeng},
+  journal={TKDE},
+  year={2020},
+  publisher={IEEE}
+}
