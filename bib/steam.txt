@@ -1,11 +1,21 @@
 Full Version:
 @inproceedings{yu2020steam,
-  title={STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths},
-  author={Yu, Yue and Li, Yinghao and Shen, Jiaming and Feng, Hao and Sun, Jimeng and Zhang, Chao},
-  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  publisher = {{ACM}},
-  year={2020}
+author = {Yu, Yue and Li, Yinghao and Shen, Jiaming and Feng, Hao and Sun, Jimeng and Zhang, Chao},
+title = {STEAM: Self-Supervised Taxonomy Expansion with Mini-Paths},
+year = {2020},
+isbn = {9781450379984},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394486.3403145},
+doi = {10.1145/3394486.3403145},
+booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+pages = {1026–1035},
+numpages = {10},
+keywords = {self-supervised learning, taxonomy expansion, mini-paths},
+location = {Virtual Event, CA, USA},
+series = {KDD '20}
 }
+
 
 Short Version:
 @inproceedings{yu2020steam,
@@ -13,5 +23,6 @@ Short Version:
   author={Yu, Yue and Li, Yinghao and Shen, Jiaming and Feng, Hao and Sun, Jimeng and Zhang, Chao},
   booktitle={SIGKDD},
   publisher = {{ACM}},
+  pages = {1026–1035},
   year={2020}
 }

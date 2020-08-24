@@ -1,10 +1,19 @@
 Full Version:
 @inproceedings{liang2020bond,
-  title={BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision},
-  author={Liang, Chen and Yu, Yue and Jiang, Haoming and Er, Siawpeng and Wang, Ruijia and Zhao, Tuo and Zhang, Chao},
-  booktitle={Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining},
-  publisher = {{ACM}},
-  year={2020}
+author = {Liang, Chen and Yu, Yue and Jiang, Haoming and Er, Siawpeng and Wang, Ruijia and Zhao, Tuo and Zhang, Chao},
+title = {BOND: BERT-Assisted Open-Domain Named Entity Recognition with Distant Supervision},
+year = {2020},
+isbn = {9781450379984},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3394486.3403149},
+doi = {10.1145/3394486.3403149},
+booktitle = {Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+pages = {1054–1064},
+numpages = {11},
+keywords = {pre-trained language models, named entity recognition, text mining, self-training, distant supervision, open-domain},
+location = {Virtual Event, CA, USA},
+series = {KDD '20}
 }
 
 Short Version:
@@ -12,6 +21,7 @@ Short Version:
   title={BOND: Bert-Assisted Open-Domain Named Entity Recognition with Distant Supervision},
   author={Liang, Chen and Yu, Yue and Jiang, Haoming and Er, Siawpeng and Wang, Ruijia and Zhao, Tuo and Zhang, Chao},
   booktitle={SIGKDD},
+  pages = {1054–1064},
   publisher = {{ACM}},
   year={2020}
 }

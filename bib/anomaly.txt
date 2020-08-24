@@ -11,7 +11,7 @@ Short Version:
 @article{zhang2020urban,
   title={Urban Anomaly Analytics: Description, Detection and Prediction},
   author={Zhang, Mingyang and Li, Tong and Yu, Yue and Li, Yong and Hui, Pan and Zheng, Yu},
-  journal={IEEE TBD},
+  journal={TBD},
   year={2020},
   publisher={IEEE}
 }
