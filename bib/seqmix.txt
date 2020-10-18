@@ -1,0 +1,6 @@
+@inproceedings{zhang2020seqmix,
+  title={SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup},
+  author={Zhang, Rongzhi and Yu, Yue and Zhang, Chao},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  year={2020},
+}

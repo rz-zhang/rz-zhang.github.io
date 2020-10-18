@@ -1,0 +1,9 @@
+@article{yu2020sumgnn,
+  title={SumGNN: Multi-typed Drug Interaction Prediction via Efficient Knowledge Graph Summarization},
+  author={Yu, Yue and Huang, Kexin and Zhang, Chao and Glass, Lucas M and Sun, Jimeng and Xiao, Cao},
+  journal   = {CoRR},
+  volume    = {abs/2010.01450},
+  year={2020},
+  url       = {http://arxiv.org/abs/2010.01450},
+  archivePrefix = {arXiv},
+}
