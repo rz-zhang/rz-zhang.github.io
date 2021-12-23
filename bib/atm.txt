@@ -1,0 +1,6 @@
+@article{yu2021atm,
+  title={ATM: An Uncertainty-aware Active Self-training Framework for Label-efficient Text Classification},
+  author={Yu, Yue and Kong, Lingkai and Zhang, Jieyu and Zhang, Rongzhi and Zhang, Chao},
+  journal={arXiv preprint arXiv:2112.08787},
+  year={2021}
+}
