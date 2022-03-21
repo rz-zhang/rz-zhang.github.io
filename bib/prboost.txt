@@ -1,0 +1,8 @@
+@misc{zhang2022prboost,
+      title={PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning}, 
+      author={Rongzhi Zhang and Yue Yu and Pranav Shetty and Le Song and Chao Zhang},
+      year={2022},
+      eprint={2203.09735},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
