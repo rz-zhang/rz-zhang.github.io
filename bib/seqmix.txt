@@ -1,6 +1,15 @@
-@inproceedings{zhang2020seqmix,
-  title={SeqMix: Augmenting Active Sequence Labeling via Sequence Mixup},
-  author={Zhang, Rongzhi and Yu, Yue and Zhang, Chao},
-  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
-  year={2020},
+@inproceedings{zhang-etal-2020-seqmix,
+    title = "{S}eq{M}ix: Augmenting Active Sequence Labeling via Sequence Mixup",
+    author = "Zhang, Rongzhi  and
+      Yu, Yue  and
+      Zhang, Chao",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.691",
+    doi = "10.18653/v1/2020.emnlp-main.691",
+    pages = "8566--8579",
+    abstract = "Active learning is an important technique for low-resource sequence labeling tasks. However, current active sequence labeling methods use the queried samples alone in each iteration, which is an inefficient way of leveraging human annotations. We propose a simple but effective data augmentation method to improve label efficiency of active sequence labeling. Our method, SeqMix, simply augments the queried samples by generating extra labeled sequences in each iteration. The key difficulty is to generate plausible sequences along with token-level labels. In SeqMix, we address this challenge by performing mixup for both sequences and token-level labels of the queried samples. Furthermore, we design a discriminator during sequence mixup, which judges whether the generated sequences are plausible or not. Our experiments on Named Entity Recognition and Event Detection tasks show that SeqMix can improve the standard active sequence labeling method by 2.27{\%}{--}3.75{\%} in terms of $F_1$ scores. The code and data for SeqMix can be found at https://github.com/rz-zhang/SeqMix.",
 }
