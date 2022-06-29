@@ -1,0 +1,6 @@
+@article{yu2021atm,
+  title={Adaptive Multi-view Rule Discovery for Weakly-Supervised Compatible Products Prediction},
+  author={Zhang, Rongzhi and West, Rebecca and Cui, Xiquan and Zhang, Chao},
+  journal={arXiv preprint arXiv:2206.13749},
+  year={2022}
+}
