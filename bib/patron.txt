@@ -1,0 +1,17 @@
+@misc{https://doi.org/10.48550/arxiv.2209.06995,
+  doi = {10.48550/ARXIV.2209.06995},
+  
+  url = {https://arxiv.org/abs/2209.06995},
+  
+  author = {Yu, Yue and Zhang, Rongzhi and Xu, Ran and Zhang, Jieyu and Shen, Jiaming and Zhang, Chao},
+  
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
