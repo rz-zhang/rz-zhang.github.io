@@ -1,0 +1,4 @@
+@article{zhangnot,
+  title={Do Not Blindly Imitate the Teacher: Loss Perturbation for Knowledge Distillation},
+  author={Zhang, Rongzhi and Shen, Jiaming and Liu, Tianqi and Liu, Jialu and Bendersky, Michael and Najork, Marc and Zhang, Chao}
+}
