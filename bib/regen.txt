@@ -1,0 +1,6 @@
+@article{yu2023regen,
+  title={ReGen: Zero-Shot Text Classification via Training Data Generation with Progressive Dense Retrieval},
+  author={Yu, Yue and Zhuang, Yuchen and Zhang, Rongzhi and Meng, Yu and Shen, Jiaming and Zhang, Chao},
+  journal={arXiv preprint arXiv:2305.10703},
+  year={2023}
+}
