@@ -152,21 +152,16 @@ Before that, I obtained my bachelor's degree from <a href="http://www.zju.edu.cn
         
 <hr>
 <h2><a name ="research">Research</a></h2>
-My current research, revolving around large language models (LLM), is dedicated to more efficient and performant learning with limited supervision.
-In particular, I explore novel learning paradigms, in which humans and machines interact more effectively. 
-I also investigate the learning objective design in order to improve the model trained with noisy/limited supervision.
-I am also interested in how to strategically select data to maximize annotation efficiency.
-My research thrusts are as follows:
+My research focuses on advancing language models in three key aspects:
 <ul> 
-<li> <b>Large Language Model</b>: Mechanism, Distillation, Improvement of Training Pipeline
+<li> <b>Model Efficiency</b>: Progressive KV cache compression (<a href="https://arxiv.org/abs/2410.03111">Preprint</a>); Knowledge distillation (<a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671851">KDD'24</a>, <a href="https://aclanthology.org/2024.findings-acl.923.pdf">ACL'24</a>, <a href="https://arxiv.org/abs/2401.13849">COLM'24</a>)
 </li>
-<li> <b>Learning Paradigm</b>: Interactive and Iterative Methods, Weakly-Supervised Learning
+<li> <b>Model Alignment</b>: Robust reward modeling (<a href="">Preprint</a>); Test-time Alignment (<a href="https://arxiv.org/abs/2406.05954">NeurIPS'24</a>)
 </li>
-<li> <b>Learning Objective</b>: Loss Design for Calibration/Deviation-Reduction
-</li>
-<li> <b>Data Selection</b>: Active Learning, Uncertainty Estimation and Propagation
-</li>
+<li> <b>Data-centric Approach</b>: Weak supervision(<a href="https://aclanthology.org/2022.acl-long.55.pdf">ACL'22</a>, <a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599417">KDD'23</a>)
 </ul>
+
+
 
 <hr>
 <h2><a name ="preprints">Preprints</a> </h2>
@@ -174,6 +169,12 @@ My research thrusts are as follows:
  <li>
 <b>Rongzhi Zhang</b>, Kuan Wang, Liyuan Liu, Shuohang Wang, Hao Cheng, Chao Zhang and Yelong Shen. <br>
 <a href="https://arxiv.org/abs/2410.03111"><strong>LoRC: Low-Rank Compression for LLMs KV Cache with a Progressive Compression Strategy
+</strong></a><br>
+</li> <p> 
+
+<li>
+<b>Rongzhi Zhang</b>, Chenwei Zhang, Xinyang Zhang, Liang Qiu, Yuchen Zhuang, Qingru Zhang, Hyokun Yun, Tuo Zhao, Chao Zhang. <br>
+<a href=""><strong>Quality-Aware Preference Data Weighting for Generalizable Reward Model
 </strong></a><br>
 </li> <p> 
 
@@ -215,7 +216,7 @@ In the 1st <i>Conference on Language Modeling</i> (<b>COLM</b>), 2024.<br>
 
 <li>
 <b>Rongzhi Zhang</b>, Jiaming Shen, Tianqi Liu, Jialu Liu, Michael Bendersky, Marc Najork and Chao Zhang. <br>
-<a href="pdf/KDD24_PTLoss_cr_final.pdf"><strong>Knowledge Distillation with Perturbed Loss: From a Vanilla Teacher to a Proxy Teacher
+<a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671851"><strong>Knowledge Distillation with Perturbed Loss: From a Vanilla Teacher to a Proxy Teacher
 </strong></a><br>
 In <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</b>), 2024.<br>
 <!-- <a href="bib/ptloss.txt">[BibTex]</a> <a href="https://arxiv.org/pdf/2305.05010.pdf">[arXiv]</a> -->
@@ -223,7 +224,7 @@ In <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</
 
 <li>
 <b>Rongzhi Zhang</b>, Jiaming Shen, Tianqi Liu, Haorui Wang, Zhen Qin, Feng Han, Jialu Liu, Simon Baumgartner, Michael Bendersky and Chao Zhang.  <br>
-<a href="https://arxiv.org/pdf/2406.02886.pdf"><strong>PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs
+<a href="https://aclanthology.org/2024.findings-acl.923.pdf"><strong>PLaD: Preference-based Large Language Model Distillation with Pseudo-Preference Pairs
 </strong></a><br>
 In <i>Findings of Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>), 2024.<br>
 </li> <p>   
@@ -238,7 +239,7 @@ In <i>Findings of Annual Meeting of the Association for Computational Linguistic
         
 <li>
 <b>Rongzhi Zhang</b>, Yue Yu, Jiaming Shen, Xiquan Cui and Chao Zhang. <br>
-<a href="https://arxiv.org/abs/2306.02859"><strong>Local Boosting for Weakly-Supervised Learning
+<a href="https://dl.acm.org/doi/pdf/10.1145/3580305.3599417"><strong>Local Boosting for Weakly-Supervised Learning
 </strong></a><br>
 In <i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (<b>KDD</b>), 2023.<br>
 <!-- <a href="bib/localboost.txt">[BibTex]</a> <a href="https://arxiv.org/pdf/2306.02859.pdf">[arXiv]</a> -->
@@ -263,7 +264,7 @@ In <i> Findings of Annual Meeting of the Association for Computational Linguisti
         
 <li>
 <b>Rongzhi Zhang</b>, Yue Yu, Shetty Pranav, Le Song and Chao Zhang.<br>
-<a href="https://arxiv.org/pdf/2203.09735.pdf"><strong>PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning </strong></a><br>
+<a href="https://aclanthology.org/2022.acl-long.55.pdf"><strong>PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning </strong></a><br>
 In <i>Annual Meeting of the Association for Computational Linguistics</i> (<b>ACL</b>), 2022.<br>
 <!-- <a href="bib/prboost.txt">[BibTex]</a> <a href="https://arxiv.org/abs/2203.09735">[arXiv]</a> -->
 </li> <p>       
